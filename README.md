@@ -7,7 +7,7 @@ A playlist from the #3615radio hashtag on the Fediverse
 1. Create a function in the Dev Tools that match https urls
 
 ```javascript
-function extractURLs(text) {
+extractURLs = function extractURLs(text) {
   const regex = /(https?:\/\/[^\s]+)/g;
   const urls = text.match(regex);
   return urls;
