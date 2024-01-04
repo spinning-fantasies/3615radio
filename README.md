@@ -24,6 +24,7 @@ for (var i = 0; i < document.querySelectorAll(".media-content").length; i++) {
 }
 ```
 
-3. Right click > Save all messages in a file then tidy up the file
-
-4. Save as "playlist.m3u"
+3. Right click > Save all messages in a file
+5. Tidy up the file
+6. Save as "playlist.m3u"
+7. Et voilà
