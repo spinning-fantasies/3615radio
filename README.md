@@ -25,3 +25,5 @@ for (var i = 0; i < document.querySelectorAll(".media-content").length; i++) {
 ```
 
 3. Right click > Save all messages in a file then tidy up the file
+
+4. Save as "playlist.m3u"
